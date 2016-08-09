@@ -1,0 +1,17 @@
+{
+  "name": "webpack-stats-analyzer",
+  "version": "1.0.0",
+  "description": "analyze webpack stats.json, find repeated modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "webpack-stats-analyzer": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
+}
